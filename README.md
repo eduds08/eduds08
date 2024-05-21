@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **edudscrc@gmail.com**
 
-- 📄 I'm currently doing an internship as a fullstack C# developer and also doing a scientific research about reconstruction of seismic signals, where I mainly use Python and WebGPU
+- 📄 I'm currently doing an internship as a fullstack C# developer and also doing a scientific research on reconstruction of seismic signals, where I mainly use Python and WebGPU
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
