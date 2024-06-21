@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduardo de Sá Coêlho Ribeiro Costa</h1>
 <h3 align="center">I am a Brazilian undergraduate student in Computer Engineering at the Federal University of Technology - Paraná</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduds08&label=Profile%20views&color=0e75b6&style=flat" alt="eduds08" /> </p>
-
 - 🔭 I’m currently working on **batali-game, acoustic-wave-simulator**
 
 - 🌱 I’m currently learning **Mathematics, Machine Learning**
