@@ -1,22 +1,30 @@
-<h1 align="center">Hi 👋, I'm Eduardo de Sá Coêlho Ribeiro Costa</h1>
-<h3 align="center">I am a Brazilian undergraduate student in Computer Engineering at the Federal University of Technology - Paraná</h3>
+# Welcome to My GitHub!
 
-- 🔭 I’m currently working on **batali-game, acoustic-wave-simulator**
+Hello! I'm Eduardo de Sá Coêlho Ribeiro Costa, a Computer Engineering undergraduate from Brazil. I have a passion for programming and research, particularly in signal processing and machine learning.
 
-- 🌱 I’m currently learning **Mathematics, Machine Learning**
+## About Me
 
-- 💬 Ask me about **C++, Python**
+I am currently involved in two main research projects:
 
-- 📫 How to reach me **edudscrc@gmail.com**
+1. **Simulation and Reconstruction of Acoustic Signals**  
+   Working on the project [acoustic-sim-toolkit](https://github.com/eduds08/acoustic-sim-toolkit), which focuses on implementing an acoustic wave simulator using WebGPU. This project aims to aid in the analysis and reconstruction of seismic events.
 
-- 📄 I'm currently doing an internship as a fullstack C# developer and also doing a scientific research on reconstruction of seismic signals, where I mainly use Python and WebGPU
+2. **Early Failure Detection in UPS Systems**  
+   Applying data science and machine learning to predict failures in UPS systems, with the goal of increasing the reliability and efficiency of these systems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/edudscoelho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edudscoelho" height="30" width="40" /></a>
-</p>
+## Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Python**
+- **C++**
+- **WebGPU**
+- **MySQL**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduds08&show_icons=true&locale=en&layout=compact" alt="eduds08" /></p>
+## Featured Repositories
+
+- [**acoustic-sim-toolkit**](https://github.com/eduds08/acoustic-sim-toolkit): A tool for simulating acoustic waves, developed using WebGPU.
+- Other projects and contributions can be found on my profile.
+
+## Contact
+
+- **Email**: [edudscrc@gmail.com](mailto:edudscrc@gmail.com) (Example)
+- **LinkedIn**: [linkedin.com/in/edudscoelho](https://linkedin.com/in/edudscoelho) (Example)
