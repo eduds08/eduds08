@@ -19,11 +19,6 @@ I am currently involved in two main research projects:
 - **WebGPU**
 - **MySQL**
 
-## Featured Repositories
-
-- [**acoustic-sim-toolkit**](https://github.com/eduds08/acoustic-sim-toolkit): A tool for simulating acoustic waves, developed using WebGPU.
-- Other projects and contributions can be found on my profile.
-
 ## Contact
 
 - **Email**: [edudscrc@gmail.com](mailto:edudscrc@gmail.com) (Example)
