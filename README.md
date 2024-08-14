@@ -21,5 +21,5 @@ I am currently involved in two main research projects:
 
 ## Contact
 
-- **Email**: [edudscrc@gmail.com](mailto:edudscrc@gmail.com) (Example)
-- **LinkedIn**: [linkedin.com/in/edudscoelho](https://linkedin.com/in/edudscoelho) (Example)
+- **Email**: [edudscrc@gmail.com](mailto:edudscrc@gmail.com)
+- **LinkedIn**: [linkedin.com/in/edudscoelho](https://linkedin.com/in/edudscoelho)
