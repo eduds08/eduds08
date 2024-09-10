@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-Hello! I'm Eduardo de Sá Coêlho Ribeiro Costa, a Computer Engineering undergraduate from Brazil. I have a passion for programming and research, particularly in signal processing and machine learning.
+Hello! I'm Eduardo de Sá Coêlho Ribeiro Costa, a Computer Engineering undergraduate from Brazil. I have a passion for programming and research.
 
 ## About Me
 
